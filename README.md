@@ -4,6 +4,11 @@ description: Formation F# 5-9, en français 🇫🇷 🔵⚪🔴
 
 # Intro
 
+{% hint style="warning" %}
+Ce support existe aussi en anglais : [F# Training](https://app.gitbook.com/o/WQ4udhUQXdI3qLyHELJD/s/p5w2myCP20VLgsuGz7RA/ "mention") .\
+→ C'est là que vous trouverez les dernières mises-à-jour.
+{% endhint %}
+
 ## Auteur
 
 Romain DENEAU
